@@ -1,1 +1,3 @@
 *.suo
+/DotSyslog/bin
+/DotSyslog/obj
