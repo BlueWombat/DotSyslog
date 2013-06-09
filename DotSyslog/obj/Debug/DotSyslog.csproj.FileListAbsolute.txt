@@ -1,5 +1,0 @@
-c:\users\mikkel\documents\visual studio 2010\Projects\Private\DotSyslog\DotSyslog\bin\Debug\BlueWombat.DotSyslog.dll
-c:\users\mikkel\documents\visual studio 2010\Projects\Private\DotSyslog\DotSyslog\bin\Debug\BlueWombat.DotSyslog.pdb
-c:\users\mikkel\documents\visual studio 2010\Projects\Private\DotSyslog\DotSyslog\obj\Debug\ResolveAssemblyReference.cache
-c:\users\mikkel\documents\visual studio 2010\Projects\Private\DotSyslog\DotSyslog\obj\Debug\BlueWombat.DotSyslog.dll
-c:\users\mikkel\documents\visual studio 2010\Projects\Private\DotSyslog\DotSyslog\obj\Debug\BlueWombat.DotSyslog.pdb
